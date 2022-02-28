@@ -1,2 +1,0 @@
-jobs = "jobs"
-contacts = "contacts"
