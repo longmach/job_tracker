@@ -7,7 +7,7 @@ Introduction
     - The HTTP requests has been extensively tested in Postman.
     - It has been integrated successfully with ReactJS front end to create a full stack web application
     
-    You can find the ReactJS front end here:
+    You can find the ReactJS front end source code here:
     
     github.com/freddyhoang/CS467---Job-Tracker
 
